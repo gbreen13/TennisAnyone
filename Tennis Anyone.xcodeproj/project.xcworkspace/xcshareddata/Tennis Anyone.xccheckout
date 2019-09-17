@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08CF925C-E06D-424F-8DBC-E4EFB7E7A46A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tennis Anyone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>062DBC03-6D18-4D74-8AF4-915999A5F30A</key>
+		<string>https://rabbithillsolutions.unfuddle.com/svn/rabbithillsolutions_ta</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tennis Anyone.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>062DBC03-6D18-4D74-8AF4-915999A5F30A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>062DBC03-6D18-4D74-8AF4-915999A5F30A</key>
+		<string>https://rabbithillsolutions.unfuddle.com/svn/rabbithillsolutions_ta</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://rabbithillsolutions.unfuddle.com/svn/rabbithillsolutions_ta/Tennis%20Anyone.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>062DBC03-6D18-4D74-8AF4-915999A5F30A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>062DBC03-6D18-4D74-8AF4-915999A5F30A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TennisAnyone</string>
+		</dict>
+	</array>
+</dict>
+</plist>

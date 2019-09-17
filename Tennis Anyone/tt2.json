@@ -1,0 +1,174 @@
+{
+	"fileType" : "TennisAnyoneSchedule",
+	"versionMajor" : 1,
+	"versionMinor" : 0,
+	"players" :
+	[
+     {
+     "playerCreated" : "ddssffds",
+     "playerLastModified" : "ddssffds",
+     "firstName":"new 1",
+     "lastName": "Lingus",
+     "phoneNumber":"212 123-4567",
+     "email":"slutty@gmail.net"
+     },
+     {
+     "playerCreated" : "ddssffds",
+     "playerLastModified" : "ddssffds",
+     "firstName":"new2",
+     "lastName": "Lingus",
+     "phoneNumber":"212 123-4567",
+     "email":"slutty@gmail.net"
+     },
+     {
+     "playerCreated" : "ddssffds",
+     "playerLastModified" : "ddssffds",
+     "firstName":"Ana2",
+     "lastName": "Lingus",
+     "phoneNumber":"212 123-4567",
+     "email":"slutty@gmail.net"
+     },
+     {
+     "playerCreated" : "ddssffds",
+     "playerLastModified" : "ddssffds",
+     "firstName":"Ana",
+     "lastName": "Lingus",
+     "phoneNumber":"212 123-4567",
+     "email":"slutty@gmail.net"
+     },
+     {
+     "playerCreated" : "ddssffds",
+     "playerLastModified" : "ddssffds",
+     "firstName":"Connie",
+     "lastName": "Lingus",
+     "phoneNumber":"212 123-4567",
+     "email":"slutty@gmail.net"
+     }
+     ],
+	"places" :
+    [
+     {
+     "placeCreated" : "ddssffds",
+     "placeLastModified" : "ddssffds",
+     "placeName":"Radnor Racquet Club",
+     "phoneNumber":"212 5555-1234",
+     "email":"bobtheslob@sloppy.net",
+     },
+     {
+     "placeCreated" : "ddssffds",
+     "placeLastModified" : "ddssffds",
+     "placeName":"new fancy place",
+     "phoneNumber":"none",
+     "email":"none",
+     },
+     {
+     "placeCreated" : "ddssffds",
+     "placeLastModified" : "ddssffds",
+     "placeName":"Thomas Williams",
+     "phoneNumber":"none",
+     "email":"none",
+     }
+     
+     ],
+    "contractSchedules" :
+	[
+     {
+     "contractCreated" : "2013-12-27 18:15:22",
+     "contractLastModified" : "2013-12-27 18:16:22",
+     "contractStart" : "2014-02-13 12:34:56",
+     "durationInMinutes":90,
+     "numCalendarWeeks":36,
+     "numPlayableWeeks":33,
+     "numPlayersNeeded":4,
+     "placeIndex":1,
+     "contractFixedCourtCosts":100,
+     "contractWeeklyCourtCosts":30,
+     "contractFixedPerPlayerCosts":150,
+     "contractWeeklyPerPlayerCosts":10,
+     "contractPlayers" : [
+                          {
+                          "playerIndex":1,
+                          "preferredNumberOfWeeks" :25,
+                          "actualNumberOfWeeks":11,
+                          "totalPlayerCost":400
+                          },
+                          {
+                          "playerIndex":3,
+                          "preferredNumberOfWeeks" :25,
+                          "actualNumberOfWeeks":11,
+                          "totalPlayerCost":400
+                          },
+                          {
+                          "playerIndex":2,
+                          "preferredNumberOfWeeks" :25,
+                          "actualNumberOfWeeks":11,
+                          "totalPlayerCost":400
+                          },
+                          {
+                          "playerIndex":0,
+                          "preferredNumberOfWeeks" :25,
+                          "actualNumberOfWeeks":11,
+                          "totalPlayerCost":400
+                          }
+                          ],
+     "alternatePlayers" : [
+                           2,4
+                           ],
+     "weeklySchedule" : [
+                         {
+                         "weekNumber": 1,
+                         "dateTime" : "ddsssmm",
+                         "isBlocked" : false,
+                         "scheduledPlayers" : [
+                                               1,3
+                                               ],
+                         "blockedPlayers" : [
+                                             0
+                                             ]
+                         },
+                         {
+                         "weekNumber": 2,
+                         "dateTime" : "ddsssmm",
+                         "isBlocked" : true,
+                         "scheduledPlayers" : [
+                                               1,3
+                                               ],
+                         "blockedPlayers" : [
+                                             2
+                                             ]
+                         },
+                         {
+                         "weekNumber": 3,
+                         "dateTime" : "ddsssmm",
+                         "isBlocked" : false,
+                         "scheduledPlayers" : [
+                                               1,4
+                                               ],
+                         "blockedPlayers" : [
+                                             3
+                                             ]
+                         }
+                         ]
+     }
+     ],
+    "singleMatches" :
+    [
+     {
+     "matchCreated" : "2013-12-27 18:15:22",
+     "matchLastModified" : "2013-12-27 18:16:22",
+     "placeIndex":2,
+     "matchStart":"2014-04-11 10:10:10",
+     "durationInMinutes":90,
+     "numPlayersNeeded":4,
+     "invitedPlayers" : [
+                         0,1,2,3,4
+                         ],
+     "acceptedPlayers" : [
+                          2,3
+                          ],
+     "rejectedPlayers" : [
+                          1,3
+                          ]
+     }
+     ]
+}
